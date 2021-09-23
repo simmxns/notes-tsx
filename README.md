@@ -9,7 +9,7 @@ Notes website sample w/React n ts
 <p>30fps btw :c</p>
 
 ## Tech
-* HTML, TS
+* HTML, TS, JS
 * [SASS](https://sass-lang.com/)
 * [React](https://es.reactjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
