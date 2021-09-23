@@ -1,4 +1,4 @@
-# Notes
+# Notes 📝
 Notes website sample w/React n ts
 
 ## Demos
